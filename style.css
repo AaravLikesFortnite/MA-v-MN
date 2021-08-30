@@ -1,0 +1,19 @@
+.header{
+    width: 100%;
+    font-size: 50px;
+    margin: 0px;
+    height:100px;
+}
+.test_images{
+    width:800px;
+    border: 15px;
+}
+body{
+    background-color: lightgrey;
+}
+.miniResult{
+    font-size: 20px;
+}
+.test{
+    width:100%;
+}
